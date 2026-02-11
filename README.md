@@ -7,19 +7,7 @@ A Machine Learning-based Crop Recommendation System that suggests the most suita
 
 This system predicts the best crop to cultivate using the following input parameters:
 
-Nitrogen (N)
-
-Phosphorus (P)
-
-Potassium (K)
-
-Temperature
-
-Humidity
-
-pH value
-
-Rainfall
+Nitrogen (N) , Phosphorus (P) , Potassium (K) , Temperature , Humidity , pH value , Rainfall
 
 The model analyzes these features and recommends the optimal crop for maximum yield and productivity.
 
@@ -37,18 +25,7 @@ Can be integrated with a web interface or GUI
 
 🛠️ Technologies Used
 
-Python
-
-Scikit-learn
-
-Pandas
-
-NumPy
-
-Matplotlib (for visualization)
-
-Flask
-
+Python , Scikit-learn , Pandas , NumPy , Matplotlib (for visualization) , Flask
 
 
 ⚙️ How It Works
